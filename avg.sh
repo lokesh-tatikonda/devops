@@ -1,6 +1,6 @@
 #!/bin/bash
 
-avg_calci(){
+avg_calc(){
 	total=0
 	for i in $@
 	do
@@ -9,4 +9,4 @@ avg_calci(){
 	echo "Average of all given numbers: $(( total / ${#@} ))"
 }
 
-avg_calci 10 20 30
+avg_calc 10 20 30
