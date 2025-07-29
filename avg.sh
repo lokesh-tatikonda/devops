@@ -10,5 +10,8 @@ avg_calc(){
 }
 
 avg_calc 10 20 30
+<<<<<<< HEAD
 hi everyone
 hi
+=======
+>>>>>>> parent of 73ea601 (3rd commit to avg)
