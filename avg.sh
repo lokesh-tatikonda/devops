@@ -10,4 +10,3 @@ avg_calc(){
 }
 
 avg_calc 10 20 30
-hi everyone
