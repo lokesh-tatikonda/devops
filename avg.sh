@@ -1,6 +1,8 @@
 #!/bin/bash
 Hi everyone,please follow me
-Okay,fine
+=======
+Thanks, all
+>>>>>>> dev
 avg_calc(){
 	total=0
 	for i in $@
