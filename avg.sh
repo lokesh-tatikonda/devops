@@ -1,7 +1,7 @@
 #!/bin/bash
 Hi everyone,please follow me
 =======
-Thanks, all
+Thanks, all for support
 >>>>>>> dev
 avg_calc(){
 	total=0
