@@ -1,4 +1,4 @@
-hellohi
+hellohi cherry-pick 1
 #!/bin/bash
 
 avg_calc(){
