@@ -1,6 +1,6 @@
 hellohi
 #!/bin/bash
-
+created from devs
 avg_calc(){
 	total=0
 	for i in $@
