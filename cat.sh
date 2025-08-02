@@ -11,4 +11,4 @@ avg_calc(){
 	echo "Average of all given numbers: $(( total / ${#@} ))"
 }
 
-avg_calc 10 20 30
+avg_calc 10 20 40
